@@ -252,6 +252,9 @@
   .header {
     padding: 10px 5%; 
   }
+ body {
+  overflow-x:hidden;
+ }
 
   nav ul li {
     margin: 5px 10px;
