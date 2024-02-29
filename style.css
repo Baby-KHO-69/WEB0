@@ -257,6 +257,7 @@
  }
  .logo{
   margin-left:auto;
+  margin-bottom: 10px;
  }
  nav{
   flex-direction:column;
@@ -264,8 +265,7 @@
  }
 
   nav ul li {
-    margin: 5px 10px;
-   float:left;
+    margin: 5px 0px;
   }
 
   .section, .section1 {
