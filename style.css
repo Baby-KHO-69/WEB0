@@ -255,6 +255,7 @@
 
   nav ul li {
     margin: 5px 10px;
+   float:left;
   }
 
   .section, .section1 {
@@ -287,6 +288,7 @@
     grid-template-columns: repeat(2, 1fr); 
     gap: 20px; 
   }
+ 
  .portfolio-items img.fullscreen {
     position: fixed;
     top: 50%;
