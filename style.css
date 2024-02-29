@@ -249,7 +249,7 @@
       border-radius: 5px;
       cursor: pointer;
     }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
  
   .header {
     padding: 10px 5%; 
