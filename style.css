@@ -259,13 +259,14 @@
   
  }
  .logo{
-  margin-left:auto;
+  order: -1;
  }
  nav{
   flex-direction:column;
   align-items:flex-start;
  }
   nav ul li {
+   margin-left:auto;
     margin: 5px 10px;
   }
 
