@@ -260,12 +260,16 @@
   order: -1;
  }
  nav{
-  flex-direction:column;
-  align-items:flex-start;
+  flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center;
+ }
+ nav ul{
+    margin-left: auto;
  }
   nav ul li {
-   margin-left:auto;
-    margin: 5px 10px;
+   margin-left:10px;
+    
   }
 
   .section, .section1 {
