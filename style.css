@@ -247,6 +247,13 @@
       border-radius: 5px;
       cursor: pointer;
     }
+.footer{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
+        font-weight: bolder;
+        justify-content: center;
+        place-items: center;
+}
 @media screen and (max-width: 628px) {
  
   .header {
